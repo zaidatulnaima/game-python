@@ -1,0 +1,29 @@
+# Blender 4.0.2
+# www.blender.org
+mtllib p1w.mtl
+
+#
+# object obj_64934720
+#
+
+v -10 0 -10
+v 10 0 -10
+v -10 0 10
+v 10 0 10
+# 4 vertices
+
+vn 0 1 0
+# 1 vertex normals
+
+vt 0 0 1
+vt 0 1 1
+vt 1 0 1
+vt 1 1 1
+# 4 texture coords
+
+g obj_64934720
+usemtl mat_1714851
+s 1
+f 3/3/1 4/4/1 2/2/1 1/1/1
+#1 polygons
+
